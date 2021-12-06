@@ -1,5 +1,7 @@
 # AngularTemplate
 
+![image](https://user-images.githubusercontent.com/51382543/144844557-ddeb5266-7a5f-4103-a2c6-0d352327bbff.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
 ## Development server
