@@ -1,0 +1,20 @@
+// spaces
+$spaceXxs: 4px;
+$spaceXs: 8px;
+$spaceSm: 16px;
+$spaceMd: 24px;
+$spaceLg: 32px;
+$spaceXl: 40px;
+$spaceXxl: 48px;
+
+// height
+$header-height: 80px;
+$topnavi-height: 40px;
+$headline-height: 80px;
+$footer-height: 40px;
+
+// margin
+$content-margin-top: 24px;
+
+$content-height: calc(100vh - #{$header-height} - #{$topnavi-height} - #{$footer-height});
+

@@ -1,0 +1,17 @@
+@import '/src/styles.scss';
+
+.headline {
+  background-color: white;
+  height: $headline-height;
+}
+
+.headlineFont {
+  color: black;
+  line-height: 80px;
+}
+
+.headlineRight {
+  float: right;
+  right: 28px;
+  padding: 26px 6px 32px 0px;
+}
