@@ -4,6 +4,38 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
+## Project structur
+```
+|-- src
+|   |-- app
+|   |   |-- shared
+|   |   |   |-- components
+|   |   |   |   |-- component1
+|   |   |   |   |-- componentx
+|   |   |   |-- directives
+|   |   |   |   |-- directive1
+|   |   |   |   |-- directivex
+|   |   |   |-- pages
+|   |   |   |   |-- page1
+|   |   |   |   |-- pagex
+|   |   |   |-- pipes
+|   |   |   |-- shared.module.ts
+|   |   |-- core
+|   |   |   | ...
+|   |   |-- components-demo
+|   |   |   |-- components
+|   |   |   |   | ...
+|   |   |   |-- pages
+|   |   |   |   |-- component.demo
+|   |   |   |-- components.demo.ts
+```
+
+### Core
+Code that is needed from everywhere.
+
+### Shared
+Code that is needed in several places.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
